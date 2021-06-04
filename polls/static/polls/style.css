@@ -1,0 +1,11 @@
+li a {
+    color: green;
+}
+
+body {
+    background-image: url("imagens/background.gif"); /* The image used */
+    background-color: white; /* Used if the image is unavailable */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+}
